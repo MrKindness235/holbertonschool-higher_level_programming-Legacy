@@ -1,4 +1,3 @@
 #!/usr/bin/python3
 str = "Holberton School"
-print("{}{}{}".format(str,str,str))
-print("{:.9}".format(str))
+print("{0}{0}{0}\n{0:.9}".format(str))
