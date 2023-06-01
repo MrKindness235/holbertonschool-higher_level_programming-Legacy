@@ -19,5 +19,4 @@ str17 = "Although never is often better than *right* now.\n"
 str18 = "If the implementation is hard to explain, it's a bad idea.\n"
 str19 = "If the implementation is easy to explain, it may be a good idea.\n"
 str20 = "Namespaces are one honking great idea -- let's do more of those!"
-print(f"{str}{str2}{str3}{str4}{str5}{str6}{str7}{str8}{str9}{str10}{str11}{str12}\
-      {str13}{str14}{str15}{str16}{str17}{str18}{str19}{str20}")
+print(f"{str}{str2}{str3}{str4}{str5}{str6}{str7}{str8}{str9}{str10}{str11}{str12}{str13}{str14}{str15}{str16}{str17}{str18}{str19}{str20}")
