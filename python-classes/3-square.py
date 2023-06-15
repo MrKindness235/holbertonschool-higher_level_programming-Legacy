@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """
-Now the object itself, the Square, has evolved it's own conssiunes into a sentient-like state.
+Now the object itself, the Square,
+has evolved it's own conssiunes into a sentient-like state.
 For it is only sentient to be aware of one's own might.
 """
 

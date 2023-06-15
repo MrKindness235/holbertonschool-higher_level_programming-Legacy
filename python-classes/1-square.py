@@ -1,5 +1,8 @@
 #!/usr/bin/python3
-"""This class does a bit more than it's forebearer, thus polishing the model that will give way to new objects"""
+"""
+This class does a bit more than it's forebearer,
+thus polishing the model that will give way to new objects
+"""
 
 
 class Square:

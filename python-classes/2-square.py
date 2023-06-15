@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-This is the third installment of the Square Class. 
+This is the third installment of the Square Class.
 Now it is more complex, and has more "Concioussness".
 Thank you Luz for helping with this!
 """
