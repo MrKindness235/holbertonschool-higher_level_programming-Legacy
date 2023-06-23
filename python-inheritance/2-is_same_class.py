@@ -4,5 +4,7 @@
 
 def is_same_class(obj, a_class):
     """This should do the trick"""
-
-    return (obj == a_class)
+    if obj == a_class:
+        return (obj == a_class)
+    else:
+        return (False)
