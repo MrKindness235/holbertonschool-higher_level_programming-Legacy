@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 """
 Now, the object can be modified by the world of data sorrounding it
 garnting it a philosphical sense of flow, which is to say,
