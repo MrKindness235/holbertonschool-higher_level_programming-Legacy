@@ -1,0 +1,12 @@
+./1-main.py
+
+	>>> MyList = __import__('1-my_list').MyList
+
+	>>> my_list = MyList()
+
+	>>> my_list = MyList("Hola")
+	['H', 'o', 'l', 'a']
+
+--------------------------------------------------------------
+
+./1-main.py
