@@ -8,7 +8,7 @@ when we leave this world
 
 
 class MyList(list):
+    """This method prints the contents of MyList"""
 
     def print_sorted(self):
         print(sorted(self))
-    """This method prints the contents of MyList"""
