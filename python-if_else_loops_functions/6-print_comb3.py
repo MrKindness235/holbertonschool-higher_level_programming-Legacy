@@ -1,7 +1,7 @@
 #!/usr/bin/python3
-for tens_place in range(0, 9):
-    for ones_place in range(tens_place + 1, 10):
-        if tens_place != 8:
-            print("{}{}".format(tens_place, ones_place), end=", ")
+for tens in range(0, 9):
+    for ones in range(tens + 1, 10):
+        if tens != 8:
+            print("{}{}".format(tens, ones), end=", ")
         else:
-            print("{}{}".format(tens_place, ones_place))
+            print("{}{}".format(tens, ones))
