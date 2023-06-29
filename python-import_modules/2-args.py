@@ -5,7 +5,7 @@ if __name__ == "__main__":
     if i < 0:
         raise ValueError
 if i == 0:
-    print("0 arguments.")
+    print("0 argument.")
 elif i == 1:
     print("1 argument:")
 else:
