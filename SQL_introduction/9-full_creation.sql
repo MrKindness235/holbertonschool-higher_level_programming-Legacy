@@ -1,4 +1,5 @@
--- This one creates a table named second_table in the database hbtn_0c_0 in the MySQL server and adds multiple rows!
+-- This one creates a table named second_table 
+-- in the database hbtn_0c_0 and adds multiple rows!
 CREATE TABLE IF NOT EXISTS second_table (
 	id INT,
 	name VARCHAR(256),
